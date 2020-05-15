@@ -1,0 +1,6 @@
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\bin\Debug\ImpostoRenda.exe.config
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\bin\Debug\ImpostoRenda.exe
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\bin\Debug\ImpostoRenda.pdb
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\obj\Debug\ImpostoRenda.csprojResolveAssemblyReference.cache
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\obj\Debug\ImpostoRenda.exe
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ImpostoRenda\ImpostoRenda\obj\Debug\ImpostoRenda.pdb
