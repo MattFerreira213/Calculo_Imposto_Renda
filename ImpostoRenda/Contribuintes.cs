@@ -31,7 +31,7 @@ namespace ImpostoRenda
 
         public string CalculoIR(double salarioMinimo)
         {
-            if (RendaLiquida() < salarioMinimo * 2)
+            if (RendaLiquida() < salarioMinimo * 2.5)
             {
                 Imposto = "Isento";
             }
